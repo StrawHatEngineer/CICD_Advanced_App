@@ -9,8 +9,8 @@
         "flow_name": "",
         "org": "SolEng",
         "workspace": "CI-CD" ,
-        "app_id": "",
-        "deployment_id": "",
+        "app_id": "fd49f28f-562b-466c-8db7-457fdcf22fe9",
+        "deployment_id": "0194a7de-31bf-7a07-9df7-3555624a9479",
         "dependencies": []
     },
     "target": {
