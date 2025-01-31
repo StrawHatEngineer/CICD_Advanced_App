@@ -1,11 +1,9 @@
 name: Migrate to Target
 
 on:
-  pull_request:
+  push:
     branches:
-      - main  
-    types:
-      - closed  
+      - main 
     paths-ignore:
       - 'README.md'
       - 'Contributing.md'
